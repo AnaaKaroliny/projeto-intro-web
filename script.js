@@ -45,7 +45,7 @@ const destino3 = {
 
 const destino4 = {
   nome: "Rio Grande do Sul".toUpperCase(),
-  avaliacaoCritica: 7,
+  avaliacaoCritica: 8,
   litoral: true,
   lugares: [
     "Gramado",
